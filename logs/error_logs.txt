@@ -1,0 +1,5 @@
+
+2023/12/16	04:44:15	 401af4fe-8590-4719-aece-28bce6a0b8ce	 GET https://www.google.com	/ 	Not allowed by CORS
+2023/12/16	12:37:18	 18a2e215-821b-4681-a458-3f860901e668	 POST undefined	/record 	Unexpected token } in JSON at position 20
+2023/12/16	12:37:35	 3dd5b616-3839-4c7b-af42-d03980da6103	 POST undefined	/record 	Unexpected token " in JSON at position 0
+2023/12/16	12:37:53	 1f0db9fa-8eac-40f5-8003-57d63f60aa56	 POST undefined	/record 	Unexpected token s in JSON at position 16
